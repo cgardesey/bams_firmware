@@ -14,22 +14,11 @@ This is an Arduino project that demonstrates biometric attendance monitoring. Em
 
 ## Requirements
 To run this project, you will need the following components:
-- Two Arduino board (e.g., Arduino Uno or Arduino Nano)
-  The two boards will communicate serially. One board will serve as the master and the other will serve as the slave
-- RTC
-- 20x4 LED
-- 4x4 Keypad
-- Sim800 or sim900
-- PIR's
-- 120db buzzers
-- Switch (Toggle, push button or slide switch)
-- Terminal blocks (optional)
-- 12V 5A power adapter (with stable output)
-- Flexible wire calbe
-- Packaging (Junction box, 3D moulded plastic box, wooden box etc)
-- Resistors
-- Transistors
-- Capacitors
+- Arduino nano
+- Finger Print sensor
+- Push button
+- HC11 transceiver
+- 1602 LCD
 - Jumper wires
 - Breadboard (optional, for prototyping)
 
